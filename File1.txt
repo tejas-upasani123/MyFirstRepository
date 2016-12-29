@@ -2,6 +2,6 @@ Hello Git....!!!
 
 Change 1
 
-Change2
+Change 2
 
-change3
+Change 3
